@@ -1,0 +1,40 @@
+.Stranahan{
+background-color: #FF8C00;
+display: flex;
+margin: 0 auto;
+}
+
+.Mcfatter{
+background-color: #008080;
+display: flex;
+margin: 0 auto;
+}
+
+.Current{
+background-color: #F0F8FF;
+display: flex;
+margin: 0 auto;
+}
+
+h1{
+  display: block; margin-left: 300px; margin-right: auto; margin-top: 0px
+}
+
+p{
+	text-align: center;
+}
+
+.button {
+  background-color: transparent; 
+  border: 2px solid #FF7F50;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.0s;
+  cursor: pointer;
+margin-top: 220px;
+}
